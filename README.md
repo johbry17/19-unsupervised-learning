@@ -13,7 +13,7 @@ Development on this project has stopped.
 
 ## Description
 
-Evalutes the trade-offs in using unsupervised machine learning models to group cryptocurrencies for hypothetical investment portfolio recommendations. It uses first the original data, then an optimized version using principal component analysis. The elbow method is used to determine the best value of `k` (four in both cases) for the K-Means algorithm, and scatter plots display the resulting clusters.
+Evaluates the trade-offs in using unsupervised machine learning models to group cryptocurrencies for hypothetical investment portfolio recommendations. It uses first the original data, then an optimized version using principal component analysis. The elbow method is used to determine the best value of `k` (four in both cases) for the K-Means algorithm, and scatter plots display the resulting clusters.
 
 The principal component analysis clusters the data more compactly, as evidenced by the lower inertia, and supplys more visually useful results for interpretation (see [Gallery](#gallery) below).
 
